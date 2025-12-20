@@ -17,7 +17,7 @@ I'm a full-stack developer and machine learning enthusiast from Malaysia 🇲�
 
 - 🔧 I work with **React**, **Next.js**, **FastAPI**, **Express**, and **Tailwind CSS**
 - 🧠 I explore **computer vision**, **data science**, and **AI integrations**
-- 🛠️ I deploy with **Vercel**, **GCP**, **Supabase**, and **Docker**
+- 🛠️ I deploy with **Cloudflare Workers**, **GCP**, **Supabase**, and **Docker**
 - 🧩 I love building products, tools, and systems that solve real problems
 
 ---
