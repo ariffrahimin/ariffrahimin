@@ -15,7 +15,7 @@
 
 I'm a full-stack developer and machine learning enthusiast from Malaysia 🇲🇾.
 
-- 🔧 I work with **React**, **Nest.js**, **FastAPI**, **Express**, and **Tailwind CSS**
+- 🔧 I work with **React**, **Nestjs**, **FastAPI**, **Express**, and **Tailwind CSS**
 - 🧠 I explore **computer vision**, **data science**, and **AI integrations**
 - 🛠️ I deploy with **Cloudflare Workers**, **GCP**, **Supabase**, and **Docker**
 - 🧩 I love building products, tools, and systems that solve real problems
@@ -40,7 +40,7 @@ I'm a full-stack developer and machine learning enthusiast from Malaysia 🇲�
 ```bash
 💬 Languages:     JavaScript · TypeScript · Python
 🧠 ML Tools:      TensorFlow · OpenCV · Pandas
-📦 Frameworks:    React · Nest.js · FastAPI · Express · Flutter
+📦 Frameworks:    React · Nestjs · FastAPI · Express · Flutter
 🗄️ Databases:     PostgreSQL · MongoDB · Firebase
 ⚙️ Tools:         Docker · Supabase · Git · Vercel · GCP
 
